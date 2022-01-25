@@ -22,7 +22,7 @@ draft: false
 
 - 以下のフォームからご登録ください。〆切は2月28日です
 
-https://forms.gle/JpPGNwmKwBa6yvbB7
+- https://forms.gle/JpPGNwmKwBa6yvbB7
 
 ---
 
