@@ -20,7 +20,9 @@ draft: false
 
 ### 参加または講演希望登録 (無料)
 
-- 以下のフォームからご登録ください(2月28日〆切) https://forms.gle/JpPGNwmKwBa6yvbB7
+- 以下のフォームからご登録ください。〆切は2月28日です
+
+https://forms.gle/JpPGNwmKwBa6yvbB7
 
 ---
 
