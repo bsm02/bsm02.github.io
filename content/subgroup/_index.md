@@ -20,6 +20,8 @@ menu: "サブグループについて"
 
 We would like to organize a workshop on biomolecular simulations and modeling including proteins, nucleic acids, and lipid membranes for researchers in the field to discuss and communicate on a regular basis. Biomolecular simulations, mathematical modeling to integrate simulations and experimental data, structure/function predictions, rational designs, and etc. are included. Rapid communications among researchers are needed to advance the field, considering new techniques such as machine learning have been introduced in recent years.
 
+---
+
 ### サブグループ発起人
 
 五十音順
